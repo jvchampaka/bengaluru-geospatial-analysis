@@ -1,0 +1,61 @@
+name,category,region,latitude,longitude
+2nd Block Park,Park,Bengaluru_Urban,13.025164571921083,77.62617315961052
+4th Phase 707 Park,Park,Bengaluru_Urban,13.104966534289543,77.57553847234334
+77 Place common park,Park,Bengaluru_Urban,12.948688131334626,77.69359236683225
+7th Block Park,Park,Bengaluru_Urban,13.084029373432962,77.56164748047429
+A,Park,Bengaluru_Urban,12.882801894005743,77.46388647507735
+ABC Park,Park,Bengaluru_Urban,12.986323804744183,77.55726327580791
+AECS Layout Park,Park,Bengaluru_Urban,12.9666239592245,77.7159600832673
+AGS Layout Recreational Park,Park,Bengaluru_Urban,12.913147023878363,77.5374058636429
+AGS Layout park,Park,Bengaluru_Urban,12.916819824048682,77.54243446605463
+AIR Park,Park,Bengaluru_Urban,13.101625917070088,77.57576753870171
+""" NRS Medical & Dental Specialists Centre""",Hospital,Bengaluru_Urban,12.9378359,77.5573329
+A.M. Hospital,Hospital,Bengaluru_Urban,12.9601022,77.5315556
+ALDOS Medical Service Pvt LTD,Hospital,Bengaluru_Urban,12.9826672,77.6381036
+AMC Multispeciality Hospital,Hospital,Bengaluru_Urban,12.9296701,77.5764082
+Aarogya Hastha Hospital,Hospital,Bengaluru_Urban,12.900566272964342,77.67578616822087
+Aaroyha Mandir Hospital,Hospital,Bengaluru_Urban,13.0105038,77.5502452
+Aastha Hospital,Hospital,Bengaluru_Urban,12.7815275,77.7713727
+Aayug Multi Speciality Hospital,Hospital,Bengaluru_Urban,12.9651587,77.7150508
+Abhay Hospital,Hospital,Bengaluru_Urban,12.9517481,77.4939886
+"Abhaya Eye Hospital, Super Speciality Eye Care Centre",Hospital,Bengaluru_Urban,12.9271131,77.5471291
+Abbigere Lake,Waterbody,Bengaluru_Urban,13.079431918151192,77.52858760777931
+Acchegowdana Katte,Waterbody,Bengaluru_Urban,12.982918450638268,77.46602471247134
+Acharya Lake,Waterbody,Bengaluru_Urban,13.086634352883912,77.48261521883761
+Adde Vishwanathapura Lake,Waterbody,Bengaluru_Urban,13.184962673717967,77.55425042027967
+Agara Lake,Waterbody,Bengaluru_Urban,12.920763885081588,77.64136384676314
+Agara Lake,Waterbody,Bengaluru_Urban,12.850658944502003,77.49087834670256
+Agrahara Lake,Waterbody,Bengaluru_Urban,13.089486907464831,77.62484842909419
+Akshaynagar Lake,Waterbody,Bengaluru_Urban,12.871746433650207,77.6142692467821
+Allalasandra Lake,Waterbody,Bengaluru_Urban,13.091179583935364,77.58723823075299
+Allalasandra Lake,Waterbody,Bengaluru_Urban,13.091180580655587,77.58722236147041
+Annie Besant Park,Park,Bengaluru_Rural,13.279137245402929,77.56601372194896
+Cricket & Football Ground,Park,Bengaluru_Rural,13.286749838902576,77.59636739369057
+Jayachamarajendra Park,Park,Bengaluru_Rural,13.297007033333335,77.79762236666667
+KIAL South Apron (u/c),Park,Bengaluru_Rural,13.196983497664705,77.71717897730741
+Kempegowda Statue Park,Park,Bengaluru_Rural,13.199123933012839,77.6820565720584
+Kempegowda Statue Park,Park,Bengaluru_Rural,13.199099975286972,77.69139534161062
+Kodimanchanahalli Tree Park,Park,Bengaluru_Rural,13.259383654757672,77.69709022038346
+Large Lawn,Park,Bengaluru_Rural,13.288541659330948,77.59693725872836
+Lavish Lawn,Park,Bengaluru_Rural,13.285957118874773,77.59506943135595
+Mythree Sri Kantayya Park,Park,Bengaluru_Rural,13.29869013605812,77.5402459293824
+Abhishek Nethradhama,Hospital,Bengaluru_Rural,13.2876501,77.5441284
+Anandamaya Hospital,Hospital,Bengaluru_Rural,13.2905107,77.5414815
+Ashwini Hospital,Hospital,Bengaluru_Rural,13.2955,77.5417
+Ashwini Hospital,Hospital,Bengaluru_Rural,13.074622,77.7854079
+"Atreya Ayurvedic Medical College, Hospital and Research Centre",Hospital,Bengaluru_Rural,13.298618188504067,77.50830066443879
+Ayurvedagram Heritage Wellness Centre,Hospital,Bengaluru_Rural,12.969002487526595,77.79939608064954
+Bendiganahalli Primary Health Centre,Hospital,Bengaluru_Rural,13.21635719728298,77.83151019477545
+Bylanarsapura Primary Health Centre,Hospital,Bengaluru_Rural,13.17297384294043,77.93471073931039
+Community Health Centre,Hospital,Bengaluru_Rural,13.2158806,77.3005209
+Doddaballapur Government Hospital,Hospital,Bengaluru_Rural,13.2922861,77.5440493
+Araledibba Lake,Waterbody,Bengaluru_Rural,13.138677919411068,77.32585613890944
+Aruvanahalli Tank,Waterbody,Bengaluru_Rural,13.305858601382646,77.62678611846106
+Basavanahalli Kere,Waterbody,Bengaluru_Rural,13.104680059206505,77.39283205990827
+Bettakote Lake,Waterbody,Bengaluru_Rural,13.212973631512993,77.7254440206913
+Bhaktarahalli Lake,Waterbody,Bengaluru_Rural,13.014313342057541,77.78741645115304
+Budigere Lake,Waterbody,Bengaluru_Rural,13.146120211346592,77.7453237610918
+Buttramarennahalli lake,Waterbody,Bengaluru_Rural,13.16310010271217,77.73067861731201
+Devanahalli Chikka Amani Kere,Waterbody,Bengaluru_Rural,13.251720815638507,77.70869161127115
+Devara Kere,Waterbody,Bengaluru_Rural,13.194295136220378,77.20733719769702
+Doddasanne Tank,Waterbody,Bengaluru_Rural,13.22127149696023,77.68947632584178
